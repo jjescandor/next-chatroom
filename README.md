@@ -1,4 +1,4 @@
-#### Project: Next
+#### Project: Next Chatroom Sandbox
 #### Author: JJ Escandor
 
 #### Description
