@@ -1,10 +1,8 @@
-## LAB - Class 41
-
-#### Project: React IV
+#### Project: Next
 #### Author: JJ Escandor
 
 #### Description
- - This is project is about recreating the Cookie Stand Admin app using Next.js and style using Tailwind CSS.
+ - This is a sandbox for implementing an asynchornous chatroom using next
 
 #### Deplyed website
 - [Cookie Stand Admin Netlify](https://cookiestandadmin.netlify.app/)
