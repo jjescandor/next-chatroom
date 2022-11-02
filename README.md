@@ -4,11 +4,9 @@
 #### Description
  - This is a sandbox for implementing an asynchornous chatroom using next
 
-#### Deplyed website
-- [Cookie Stand Admin Netlify](https://cookiestandadmin.netlify.app/)
-- [Cookie Stand Admin Vercel](https://cookie-stand-admin-nljqgw4yc-jjescandor.vercel.app/)
-- username : admin
-- password : admin
+#### Deployed website
+- username : 
+- password : 
 
 ### Feature Tasks and Requirements
 - Refer to Deploying Your Next.js App
