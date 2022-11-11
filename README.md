@@ -9,7 +9,7 @@
 - password : 
 
 ### Feature Tasks and Requirements
-- Login to next app
+
 
 #### Implementation Notes
 
